@@ -28,4 +28,4 @@ Here are some highlighted projects:
 ---
 
 ## 📈 GitHub Stats
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Visuddika's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
