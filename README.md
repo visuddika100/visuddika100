@@ -1,4 +1,4 @@
-<h1> align="center">Hey 👋, I'm Visuddika Bandara</h1>
+<h1 align="center">Hey 👋, I'm Visuddika Bandara</h1>
 
 <p align="center">
   <b>Final-year Applied Scince in Computing Undergraduat | Full-stack Learner</b>
