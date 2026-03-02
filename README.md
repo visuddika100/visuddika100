@@ -18,21 +18,13 @@
 ### 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,html,js,css,tailwind,react,express,mysql,postman,nodejs,java,py,cpp,vscode&perline=14" />
-  
----
-
-//### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathubha&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathubha&layout=compact&theme=react" />
-</p>//
 
 
 ---
 
 ### 📫 Connect With Me
-📧 Email: **visukaushi@gmail.com**
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
+   [visukaushi@gmail.com](mailto:visukaushi@gmail.com) 
+   [LinkedIn](https://www.linkedin.com/in/visuddika-bandara-46921334a)
 
 ---
 
