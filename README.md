@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Connect With Me
-   [visukaushi@gmail.com](mailto:visukaushi@gmail.com) 
+   [visukaushi@gmail.com](mailto:visukaushi@gmail.com) |
    [LinkedIn](https://www.linkedin.com/in/visuddika-bandara-46921334a)
 
 ---
