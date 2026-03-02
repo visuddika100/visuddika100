@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alexander 👋
 
-<!--
-**visuddika100/visuddika100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student | Java & Web Developer**  
+🌐 Passionate about building web applications and learning new technologies  
+📫 Reach me: [your-email@example.com](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Programming Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+
+---
+
+## 🚀 Projects
+Here are some highlighted projects:
+
+1. **Online Learning System** – Full-stack web app for online courses  
+   [Repo Link](https://github.com/your-username/online-learning-system)
+
+2. **Student Management System** – Java OOP project with file handling  
+   [Repo Link](https://github.com/your-username/student-management-system)
+
+3. **Personal Portfolio Website** – HTML, CSS, React.js website to showcase work  
+   [Repo Link](https://github.com/your-username/portfolio-website)
+
+---
+
+## 📈 GitHub Stats
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
