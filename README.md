@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Visuddika Bandara</h1>
 
 <p align="center">
-  <b>Final-year Applied Scince in Computing Undergraduat | Full-stack Learner</b>
+  <b>Final-year Applied Science in Computing Undergraduat | Full-stack Learner</b>
 </p>
 
 ---
@@ -21,11 +21,11 @@
   
 ---
 
-### 📈 GitHub Stats
+//### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chathubha&show_icons=true&theme=react" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathubha&layout=compact&theme=react" />
-</p>
+</p>//
 
 
 ---
