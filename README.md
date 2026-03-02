@@ -1,8 +1,8 @@
-# Hi, I'm Alexander 👋
+# Hi, I'm Visuddika Bandara 👋
 
 💻 **Computer Science Student | Java & Web Developer**  
 🌐 Passionate about building web applications and learning new technologies  
-📫 Reach me: [your-email@example.com](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📫 Reach me: [visukaushi@gmail.com](mailto:visukaushi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/visuddika-bandara-46921334a)
 
 ---
 
